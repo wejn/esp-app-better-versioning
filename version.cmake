@@ -1,7 +1,7 @@
 # This makes the following variables available:
 # - BUILD_TIMESTAMP = "%Y%m%d%H%M%S" (UTC)
 # - GIT_SHORT_REV = 7 char revision short
-# - GIT_DIRTY_SUFFIX = "-dirty" if there are uncommited changes
+# - GIT_DIRTY_SUFFIX = "-dirty" if there are uncommitted changes
 # - GIT_FULL_REV_ID = "${GIT_SHORT_REV}${GIT_DIRTY_SUFFIX}"
 # which is useful for project versioning.
 #
