@@ -20,6 +20,12 @@
 #
 # Written in 2025 by Michal Jirků (wejn)
 # License: CC0 or public domain (whatever's more pleasant for you)
+#
+# ---
+#
+# See
+# https://wejn.org/2025/01/howto-timestamp-and-githash-esp32-firmware-builds/
+# for background.
 
 cmake_minimum_required(VERSION 3.16)
 
