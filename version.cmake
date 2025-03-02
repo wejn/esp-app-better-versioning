@@ -24,7 +24,7 @@
 # ---
 #
 # See
-# https://wejn.org/2025/01/howto-timestamp-and-githash-esp32-firmware-builds/
+# https://wejn.org/2025/03/howto-timestamp-and-githash-esp32-firmware-builds/
 # for background.
 
 cmake_minimum_required(VERSION 3.16)

@@ -1,7 +1,7 @@
 # ESP-IDF app versioning using build timestamp and git info
 
 For background info see
-[this post](https://wejn.org/2025/01/howto-timestamp-and-githash-esp32-firmware-builds/).
+[this post](https://wejn.org/2025/03/howto-timestamp-and-githash-esp32-firmware-builds/).
 
 The main thing you probably want is the `version.cmake`, and
 maybe take a look at `CMakeLists.txt` and `main/CMakeLists.txt`
