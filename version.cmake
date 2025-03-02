@@ -12,7 +12,7 @@
 # /project dir and /opt/.../openthread are marked safe for git. Which avoids
 # a verbose failure (to obtain the needed info).
 #
-# Also provides `force_reconfig` custom target that forces cmake reconfig every
+# Also provides `force_reconfig` custom target that forces CMake reconfig every
 # time a given dependency gets built. That's needed to keep the above variables
 # fresh. But you need to plug it in as dependency of your main binary.
 #
